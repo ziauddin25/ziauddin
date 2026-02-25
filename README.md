@@ -1,11 +1,5 @@
 Languages & Tools
 
-- HTML  
-- CSS  
-- JavaScript
-- TypeScript  
-- React
-- Next
-- Tailwind Css
-- Figma
-- Git & GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,github" />
+</p>
